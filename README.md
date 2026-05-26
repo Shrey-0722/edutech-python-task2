@@ -166,9 +166,9 @@ while True:
     break
 ```
 
-### Submitted by
+## Submitted by
 Shrey Gamit
-P.P.Savani University
+P.P. Savani University
 CSE
 
 
